@@ -139,3 +139,7 @@ data/            Shelters, nodes, routes, sample alerts
 audio/           Bangla and dialect audio assets
 docs/            Architecture and deployment docs
 scripts/         Utilities and demo scripts
+
+## Our System Architecture
+
+<img width="6037" height="3040" alt="image" src="https://github.com/user-attachments/assets/c2aef416-f7ac-413c-9d38-eb8736b5cbc6" />
